@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edyoda-grid/static/css/main.d98e8142.chunk.css",
+    "main.js": "/edyoda-grid/static/js/main.bf76e9b9.chunk.js",
+    "main.js.map": "/edyoda-grid/static/js/main.bf76e9b9.chunk.js.map",
+    "runtime-main.js": "/edyoda-grid/static/js/runtime-main.6b918f01.js",
+    "runtime-main.js.map": "/edyoda-grid/static/js/runtime-main.6b918f01.js.map",
+    "static/js/2.e20ab68f.chunk.js": "/edyoda-grid/static/js/2.e20ab68f.chunk.js",
+    "static/js/2.e20ab68f.chunk.js.map": "/edyoda-grid/static/js/2.e20ab68f.chunk.js.map",
+    "static/js/3.f8dc6357.chunk.js": "/edyoda-grid/static/js/3.f8dc6357.chunk.js",
+    "static/js/3.f8dc6357.chunk.js.map": "/edyoda-grid/static/js/3.f8dc6357.chunk.js.map",
+    "index.html": "/edyoda-grid/index.html",
+    "static/css/main.d98e8142.chunk.css.map": "/edyoda-grid/static/css/main.d98e8142.chunk.css.map",
+    "static/js/2.e20ab68f.chunk.js.LICENSE.txt": "/edyoda-grid/static/js/2.e20ab68f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b918f01.js",
+    "static/js/2.e20ab68f.chunk.js",
+    "static/css/main.d98e8142.chunk.css",
+    "static/js/main.bf76e9b9.chunk.js"
+  ]
+}
